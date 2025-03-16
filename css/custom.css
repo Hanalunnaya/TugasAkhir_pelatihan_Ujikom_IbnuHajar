@@ -1,0 +1,15 @@
+.sidebar {
+    background-color: #502c74 !important; /* Change sidebar background */
+}
+
+.bg-gradient-primary {
+    background: linear-gradient(180deg, #502c74 10%, #502c74 100%) !important; /* Change gradient */
+}
+
+.sidebar .nav-item .nav-link {
+    color: white !important; /* Change sidebar link color */
+}
+
+.login {
+    background-color: #502c74 !important; /* Change sidebar background */
+}
